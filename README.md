@@ -1,6 +1,6 @@
 # Gömülü Sistemler Laboratuvar Ödevleri
 
-Bu veri havuzu, **Gömülü Sistemler** dersi kapsamında tamamlanan laboratuvar ödevlerinin bir koleksiyonunu içerir. Laboratuvarlar, Polonya, Kraków’daki **AGH Bilim ve Teknoloji Üniversitesi**’nde Erasmus+ bursu aldığım dönemde müfredatımın bir parçasıydı.
+Bu veri havuzu, **Gömülü Sistemler** dersi kapsamında tamamlanan laboratuvar ödevini içerir. Laboratuvarlar, Polonya, Kraków’daki **AGH Bilim ve Teknoloji Üniversitesi**’nde Erasmus+ bursu aldığım dönemde müfredatımın bir parçasıydı.
 
 ---
 
